@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Technology & Data Strategy MindMaps
+title: Technology & Data Strategy
 tagline: Summarizing the technology and the next big thing with mind maps
 #description: Minimal tutorial on making a simple website with GitHub Pages
 ---
 
-[!(/assets/images/Digitalization.png)]
+![](../assets/images/Digitalization.png)
 
 
 
